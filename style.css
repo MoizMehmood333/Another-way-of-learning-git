@@ -1,0 +1,12 @@
+#bodycontent{
+    background-color: rgb(107, 90, 205);
+    border: rgb(2, 2, 131);
+    border-style: double;
+    color:#FFF;
+    padding: 10px;
+}
+
+#Submit{
+    color: rgb(155, 17, 132);
+    width: 10cm;
+}
